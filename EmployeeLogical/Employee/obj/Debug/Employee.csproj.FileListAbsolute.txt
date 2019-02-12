@@ -1,0 +1,5 @@
+C:\Users\Cuwor\source\repos\EmployeeLogical\Employee\bin\Debug\Employee.dll
+C:\Users\Cuwor\source\repos\EmployeeLogical\Employee\bin\Debug\Employee.pdb
+C:\Users\Cuwor\source\repos\EmployeeLogical\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Cuwor\source\repos\EmployeeLogical\Employee\obj\Debug\Employee.dll
+C:\Users\Cuwor\source\repos\EmployeeLogical\Employee\obj\Debug\Employee.pdb

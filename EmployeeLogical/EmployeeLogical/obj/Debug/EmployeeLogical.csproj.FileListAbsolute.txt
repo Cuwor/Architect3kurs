@@ -1,0 +1,9 @@
+C:\Users\Cuwor\source\repos\EmployeeLogical\EmployeeLogical\bin\Debug\EmployeeLogical.dll
+C:\Users\Cuwor\source\repos\EmployeeLogical\EmployeeLogical\bin\Debug\EmployeeLogical.pdb
+C:\Users\Cuwor\source\repos\EmployeeLogical\EmployeeLogical\bin\Debug\Employee.dll
+C:\Users\Cuwor\source\repos\EmployeeLogical\EmployeeLogical\bin\Debug\Employee.pdb
+C:\Users\Cuwor\source\repos\EmployeeLogical\EmployeeLogical\obj\Debug\EmployeeLogical.csprojAssemblyReference.cache
+C:\Users\Cuwor\source\repos\EmployeeLogical\EmployeeLogical\obj\Debug\EmployeeLogical.csproj.CoreCompileInputs.cache
+C:\Users\Cuwor\source\repos\EmployeeLogical\EmployeeLogical\obj\Debug\EmployeeLogical.csproj.CopyComplete
+C:\Users\Cuwor\source\repos\EmployeeLogical\EmployeeLogical\obj\Debug\EmployeeLogical.dll
+C:\Users\Cuwor\source\repos\EmployeeLogical\EmployeeLogical\obj\Debug\EmployeeLogical.pdb
