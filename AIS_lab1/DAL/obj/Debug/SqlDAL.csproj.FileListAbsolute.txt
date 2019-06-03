@@ -1,0 +1,10 @@
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\bin\Debug\DAL.dll
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\bin\Debug\DAL.pdb
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\bin\Debug\Model.dll
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\bin\Debug\Model.pdb
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\bin\Debug\Model.dll.config
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\obj\Debug\SqlDAL.csprojAssemblyReference.cache
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\obj\Debug\SqlDAL.csproj.CoreCompileInputs.cache
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\obj\Debug\SqlDAL.csproj.CopyComplete
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\obj\Debug\DAL.dll
+C:\Users\Настасья\source\repos\AIS_lab1\DAL\obj\Debug\DAL.pdb

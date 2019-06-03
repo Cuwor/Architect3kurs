@@ -1,0 +1,16 @@
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\bin\Debug\AIS_ViewConsole.exe.config
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\bin\Debug\AIS_ViewConsole.exe
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\bin\Debug\AIS_ViewConsole.pdb
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\bin\Debug\BL.dll
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\bin\Debug\Model.dll
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\bin\Debug\BL.pdb
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\bin\Debug\Model.pdb
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\obj\Debug\AIS_ViewConsole.csprojAssemblyReference.cache
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\obj\Debug\AIS_ViewConsole.csproj.CoreCompileInputs.cache
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\obj\Debug\AIS_ViewConsole.csproj.CopyComplete
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\obj\Debug\AIS_ViewConsole.exe
+C:\Users\Настасья\source\repos\AIS_lab1\AIS_ViewConsole\obj\Debug\AIS_ViewConsole.pdb
+C:\Users\Cuwor\Desktop\AIS_lab1\AIS_ViewConsole\obj\Debug\AIS_ViewConsole.csprojAssemblyReference.cache
+C:\Users\Cuwor\Desktop\AIS_lab1\AIS_ViewConsole\obj\Debug\AIS_ViewConsole.csproj.CoreCompileInputs.cache
+C:\Users\Cuwor\Desktop\AIS_lab1\AIS_ViewConsole\obj\Debug\AIS_ViewConsole.exe
+C:\Users\Cuwor\Desktop\AIS_lab1\AIS_ViewConsole\obj\Debug\AIS_ViewConsole.pdb
