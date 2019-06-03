@@ -1,0 +1,15 @@
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\BL.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\DAL.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\View1.exe
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\BL.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\DAL.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\DAL.dll.config
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\View1.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\View1.exe.config
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\obj\Debug\Presenter.csprojAssemblyReference.cache
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\obj\Debug\Presenter.csproj.CopyComplete
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\Presenter.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\bin\Debug\Presenter.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\obj\Debug\Presenter.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\Model\obj\Debug\Presenter.pdb

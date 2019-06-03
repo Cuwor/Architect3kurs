@@ -1,0 +1,17 @@
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.csprojAssemblyReference.cache
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.FormEmployee.resources
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.Properties.Resources.resources
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.csproj.GenerateResource.cache
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Lab_1\View1\bin\Debug\View1.exe.config
+E:\Учеба\АИС\Lab_1\View1\bin\Debug\View1.exe
+E:\Учеба\АИС\Lab_1\View1\bin\Debug\View1.pdb
+E:\Учеба\АИС\Lab_1\View1\bin\Debug\BL.dll
+E:\Учеба\АИС\Lab_1\View1\bin\Debug\Model.dll
+E:\Учеба\АИС\Lab_1\View1\bin\Debug\BL.pdb
+E:\Учеба\АИС\Lab_1\View1\bin\Debug\Model.pdb
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.csproj.CopyComplete
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.exe
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.pdb
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.FormAddEmployee.resources
+E:\Учеба\АИС\Lab_1\View1\obj\Debug\View1.FormInformationEmployees.resources

@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\EFDAL\\EFDAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\EFDAL\\EFDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\EFDAL\\EFDAL.csproj",
+        "projectName": "EFDAL",
+        "projectPath": "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\EFDAL\\EFDAL.csproj",
+        "packagesPath": "C:\\Users\\Cuwor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\EFDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cuwor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\Cuwor\\Documents\\Architect3kurs\\AIS_lab1\\Model\\Model.csproj"
+      },
+      "frameworks": {
+        "net471": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+E:\Учеба\АИС\Lab_2\DAL\bin\Debug\DAL.dll.config
+E:\Учеба\АИС\Lab_2\DAL\bin\Debug\DAL.dll
+E:\Учеба\АИС\Lab_2\DAL\bin\Debug\DAL.pdb
+E:\Учеба\АИС\Lab_2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Учеба\АИС\Lab_2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Lab_2\DAL\obj\Debug\DAL.dll
+E:\Учеба\АИС\Lab_2\DAL\obj\Debug\DAL.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\DAL\bin\Debug\DAL.dll.config
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\DAL\bin\Debug\DAL.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\DAL\bin\Debug\DAL.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\DAL\obj\Debug\DAL.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\DAL\obj\Debug\DAL.pdb

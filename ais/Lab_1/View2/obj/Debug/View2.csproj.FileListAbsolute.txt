@@ -1,0 +1,7 @@
+E:\Учеба\АИС\Lab_1\View2\bin\Debug\View2.exe.config
+E:\Учеба\АИС\Lab_1\View2\bin\Debug\View2.exe
+E:\Учеба\АИС\Lab_1\View2\bin\Debug\View2.pdb
+E:\Учеба\АИС\Lab_1\View2\obj\Debug\View2.csprojAssemblyReference.cache
+E:\Учеба\АИС\Lab_1\View2\obj\Debug\View2.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Lab_1\View2\obj\Debug\View2.exe
+E:\Учеба\АИС\Lab_1\View2\obj\Debug\View2.pdb

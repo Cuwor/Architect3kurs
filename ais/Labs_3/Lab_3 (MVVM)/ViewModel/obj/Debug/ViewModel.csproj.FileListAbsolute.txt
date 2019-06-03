@@ -1,0 +1,12 @@
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\bin\Debug\ViewModel.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\bin\Debug\ViewModel.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\bin\Debug\BL.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\bin\Debug\DAL.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\bin\Debug\BL.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\bin\Debug\DAL.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\bin\Debug\DAL.dll.config
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\obj\Debug\ViewModel.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\obj\Debug\ViewModel.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVVM)\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache

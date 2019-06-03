@@ -1,0 +1,31 @@
+E:\Учеба\АИС\Lab_1\BL\bin\Debug\BL.dll
+E:\Учеба\АИС\Lab_1\BL\bin\Debug\BL.pdb
+E:\Учеба\АИС\Lab_1\BL\bin\Debug\Model.dll
+E:\Учеба\АИС\Lab_1\BL\bin\Debug\Model.pdb
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.dll
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.pdb
+E:\Учеба\АИС\Lab_2\BL\bin\Debug\BL.dll
+E:\Учеба\АИС\Lab_2\BL\bin\Debug\BL.pdb
+E:\Учеба\АИС\Lab_2\BL\bin\Debug\DAL.dll
+E:\Учеба\АИС\Lab_2\BL\bin\Debug\Model.dll
+E:\Учеба\АИС\Lab_2\BL\bin\Debug\DAL.pdb
+E:\Учеба\АИС\Lab_2\BL\bin\Debug\DAL.dll.config
+E:\Учеба\АИС\Lab_2\BL\bin\Debug\Model.pdb
+E:\Учеба\АИС\Lab_2\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Учеба\АИС\Lab_2\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Lab_2\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Учеба\АИС\Lab_2\BL\obj\Debug\BL.dll
+E:\Учеба\АИС\Lab_2\BL\obj\Debug\BL.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\bin\Debug\BL.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\bin\Debug\BL.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\bin\Debug\DAL.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\bin\Debug\DAL.pdb
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\bin\Debug\DAL.dll.config
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\obj\Debug\BL.dll
+E:\Учеба\АИС\Labs_3\Lab_3 (MVP)\BL\obj\Debug\BL.pdb

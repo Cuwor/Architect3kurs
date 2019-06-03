@@ -1,0 +1,9 @@
+E:\Учеба\АИС\Lab_1\BL\bin\Debug\BL.dll
+E:\Учеба\АИС\Lab_1\BL\bin\Debug\BL.pdb
+E:\Учеба\АИС\Lab_1\BL\bin\Debug\Model.dll
+E:\Учеба\АИС\Lab_1\BL\bin\Debug\Model.pdb
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.dll
+E:\Учеба\АИС\Lab_1\BL\obj\Debug\BL.pdb
